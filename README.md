@@ -2,7 +2,8 @@
 
 Booking.com is a Dutch online travel agency for lodging reservations & other travel products, and a subsidiary of Booking Holdings. It is headquartered in Amsterdam
 
-View Project: <a href="https://satyamall.github.io/Booking.com-in-React.js-cloned/">Click here</a>
+
+View Project :  <a href="https://github.com/ronibd0/ReactJS-Ticketing-Booking-Rental-App/">Click here</a>
 
 **Team Members:**
  - Satya Prakash Mall
