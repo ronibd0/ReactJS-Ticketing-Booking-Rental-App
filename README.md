@@ -6,10 +6,8 @@ Booking.com is a Dutch online travel agency for lodging reservations & other tra
 View Project :  <a href="https://github.com/ronibd0/ReactJS-Ticketing-Booking-Rental-App/">Click here</a>
 
 **Team Members:**
- - Satya Prakash Mall
- - Pradeep Mandal
- - Khushboo Atri
- - Harsh Mehta
+ - ronibd0
+ - anayet rasel
 
 **Tech Stacks Used:**
  - React
